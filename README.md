@@ -3,7 +3,7 @@ Discord Bot
 Currently in Development
 
 ## commands
-### Public
+### non Admin stuff
 
 .roll
 	Rolls a d6 dice
