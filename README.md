@@ -12,8 +12,8 @@ Currently in Development
 	Rolls a d20 dice
 
 ### Todo
-[ ] Add a Banking System
-[ ] Add Find Random Bullsxxt off of the internet commans thing
-[ ] Add Annoying ness to the Bot
-[ ] Add Random Anime Recommener Commmand
+[_] Add a Banking System
+[_] Add Find Random Bullsxxt off of the internet commans thing
+[_] Add Annoying ness to the Bot
+[_] Add Random Anime Recommener Commmand
 
