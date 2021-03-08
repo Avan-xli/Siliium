@@ -3,15 +3,21 @@ Discord Bot
 Currently in Development
 
 ### Todo
-- [x] roll a dice 
-- [x] roll a d20 dice
+- [ ] FUN!
+	- [x] roll a dice 
+	- [x] roll a d20 dice
 
 - [ ] Add a Banking System
 	- [ ] User ID System
 	- [ ] Storing data 
 	- [ ] transaction command
-	- [ ] more
+	- [ ] more...
+
 - [ ] Add Find Random Bullsxxt off of the internet commans thing
-- [ ] Add Annoying ness to the Bot
+	- [ ] Meme (.meme)
+	- [ ] Random Image (.rimage)
+	- [ ] Random Video off of YouTube (.rvideo)
+
+- [ ] Add Annoyingness to the Bot
 - [ ] Add Random Anime Recommener Commmand
 
