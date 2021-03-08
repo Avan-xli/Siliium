@@ -6,6 +6,7 @@ Currently in Development
 - [ ] FUN!
 	- [x] roll a dice 
 	- [x] roll a d20 dice
+	- [ ] more...
 
 - [ ] Add a Banking System
 	- [ ] User ID System
