@@ -19,6 +19,8 @@ Currently in Development
 	- [ ] Random Image (.rimage)
 	- [ ] Random Video off of YouTube (.rvideo)
 
+- [ ] Question and Answer
+
 - [ ] Add Annoyingness to the Bot
 - [ ] Add Random Anime Recommener Commmand
 
