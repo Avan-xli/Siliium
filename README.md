@@ -4,8 +4,9 @@ Currently in Development
 
 ### Todo
 - [ ] FUN!
-	- [x] roll a dice 
+	- [x] roll a d6  dice
 	- [x] roll a d20 dice
+	- [x] roll a d10 dice
 	- [ ] more...
 
 - [ ] Add a Banking System
