@@ -4,24 +4,11 @@ Currently in Development
 
 ### Todo
 - [ ] FUN!
-	- [x] roll a d6  dice
-	- [x] roll a d20 dice
-	- [x] roll a d10 dice
+	- [ ] roll a d  dice - like /roll d40 then the bot returns a answer with the same request
+	- #before you need to do /roll_d20 to roll d20 and if yo do /roll d17 it would return a error
 	- [ ] more...
 
-- [ ] Add a Banking System
-	- [ ] User ID System
-	- [ ] Storing data 
-	- [ ] transaction command
-	- [ ] more...
-
-- [ ] Add Find Random Bullsxxt off of the internet commans thing
-	- [ ] Meme (.meme)
-	- [ ] Random Image (.rimage)
-	- [ ] Random Video off of YouTube (.rvideo)
-
-- [ ] Question and Answer
-
-- [ ] Add Annoyingness to the Bot
-- [ ] Add Random Anime Recommener Commmand
-
+- [ ] Add Find Random BS off of the internet
+	- [ ] Meme
+	- [ ] Random Image
+	- [ ] Random Video off of YouTube
